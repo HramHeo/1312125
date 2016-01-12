@@ -1,0 +1,11 @@
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\bin\Release\1312125.exe
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\bin\Release\1312125.pdb
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\MainWindow.baml
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\MainWindow.g.cs
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\App.g.cs
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\1312125_MarkupCompile.cache
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\1312125.g.resources
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\_1312125.Properties.Resources.resources
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\1312125.csproj.GenerateResource.Cache
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\1312125.exe
+E:\Linh tinh\Nam3\Win2\Gomoku\1312125\1312125\obj\x86\Release\1312125.pdb
